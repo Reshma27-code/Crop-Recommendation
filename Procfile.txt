@@ -1,0 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Apr 30 13:37:36 2021
+
+@author: LENOVO
+"""
+
+web:gunicorn app:app
